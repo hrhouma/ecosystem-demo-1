@@ -1,1 +1,2 @@
 Bonjour un démo de conflit de Nicolas sur la branche main
+changement 1 de la part de Haythem sur la branche hotfix
